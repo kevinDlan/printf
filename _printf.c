@@ -4,10 +4,10 @@
 
 /**
  * _printf - print something according format
- * 
- * @format: parm char 
- * 
- * Return: int 
+ *
+ * @format: parm char
+ *
+ * Return: int
  */
 
 int _printf(const char *format, ...)
